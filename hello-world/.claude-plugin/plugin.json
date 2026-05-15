@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "一个简单的Hello World插件",
   "author": {
-    "name": "Your Name",
-    "email": "your@email.com"
+    "name": "Febian"
   },
   "commands": [
     {
