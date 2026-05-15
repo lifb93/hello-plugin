@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/plugin marketplace *)",
+      "Bash(claude plugin *)",
+      "Bash(claude *)",
+      "Bash(cd __TRACKED_VAR__/.claude/marketplaces/claude-plugins-official)",
+      "Bash(cat marketplace.json)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  },
+  "enabledPlugins": {}
+}

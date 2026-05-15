@@ -1,0 +1,13 @@
+{
+  "name": "my-hello-market",
+  "owner": {
+    "name": "Febian"
+  },
+  "plugins": [
+    {
+      "name": "hello-world",
+      "path": ".",
+      "description": "Hello World插件"
+    }
+  ]
+}
