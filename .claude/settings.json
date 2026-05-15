@@ -1,3 +1,8 @@
 {
-  "enabledPlugins": {}
+  "enabledPlugins": {
+    "hello-world": {
+      "sourceType": "local",
+      "path": "./hello-world"
+    }
+  }
 }
