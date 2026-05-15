@@ -1,0 +1,16 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "一个简单的Hello World插件",
+  "author": {
+    "name": "Your Name",
+    "email": "your@email.com"
+  },
+  "commands": [
+    {
+      "name": "hello",
+      "description": "打印Hello World消息",
+      "prompt": "你是一个友好的助手。当用户说'/hello'时，回复'Hello World! 这是我的第一个Claude插件！'"
+    }
+  ]
+}
