@@ -6,6 +6,7 @@
   "plugins": [
     {
       "name": "hello-world",
+      "url": "https://github.com/lifb93/hello-plugin.git",
       "path": "hello-world",
       "description": "Hello World插件"
     }
