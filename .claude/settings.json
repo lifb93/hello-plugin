@@ -1,8 +1,9 @@
 {
   "enabledPlugins": {
     "hello-world": {
-      "sourceType": "local",
-      "path": "./hello-world"
+      "sourceType": "marketplace",
+      "marketplacePath": "../.claude-plugin",
+      "pluginName": "hello-world"
     }
   }
 }

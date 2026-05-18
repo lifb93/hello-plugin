@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "hello-world",
-      "path": ".",
+      "path": "hello-world",
       "description": "Hello World插件"
     }
   ]
